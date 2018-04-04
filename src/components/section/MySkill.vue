@@ -58,7 +58,7 @@ export default {
   width: 100%;
   padding: 0px 6rem;
   box-sizing: border-box;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .MySkill > :nth-child(2) > div {
