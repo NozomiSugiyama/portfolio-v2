@@ -20,7 +20,7 @@
         </ul>
       </div>
       <div>
-        <div>etc...</div>
+        <div>Etc...</div>
         <ul>
           <li>Linux</li>
           <li>Firebase</li>
