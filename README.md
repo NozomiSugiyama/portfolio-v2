@@ -1,6 +1,6 @@
 # portfolio-v2
 
-> A Vue.js project
+> Vue.js project
 
 ## Build Setup
 
